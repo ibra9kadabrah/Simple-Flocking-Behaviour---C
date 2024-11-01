@@ -1,0 +1,13 @@
+# Build artifacts
+main
+*.o
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# System files
+.DS_Store
+Thumbs.db
